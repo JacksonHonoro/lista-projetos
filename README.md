@@ -1,5 +1,5 @@
-# lista-projetos
-Criado usando conceitos básicos de Node
+# Lista de projetos e tarefas
+Criado usando conceitos básicos de Node.
 
 - Biblioteca Express.
 
